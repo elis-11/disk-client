@@ -1,2 +1,3 @@
 - npm i redux react-redux redux-thunk
 - npm i redux-devtools-extension
+- npm i axios
